@@ -1,0 +1,6 @@
+{
+	"appId": "com.surendra.autopublisherai",
+	"appName": "Auto App Publisher AI",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Auto App Publisher AI</string>
+    <string name="title_activity_main">Auto App Publisher AI</string>
+    <string name="package_name">com.surendra.autopublisherai</string>
+    <string name="custom_url_scheme">com.surendra.autopublisherai</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Auto App Publisher AI",
+  "description": "An AI-powered Android source code generator and compiler helper system with clean metrics dashboards, Play Store listing metadata writers, brand asset designer utilities, and GitHub sync pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMORY_API", "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
